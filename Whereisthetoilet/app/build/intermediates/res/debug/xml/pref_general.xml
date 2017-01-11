@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="show_welcome_text"
+        android:title="@string/info_title"
+        android:summary="Turn on/off this if you don't want to read the information text about this app"
+        android:defaultValue="true" />
+
+
+</PreferenceScreen>
+<!-- From: file:/C:/Users/Jinhua/AndroidStudioProjects/Whereisthetoilet/app/src/main/res/xml/pref_general.xml -->

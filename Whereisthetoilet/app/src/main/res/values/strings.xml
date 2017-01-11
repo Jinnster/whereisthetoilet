@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Where is the toilet</string>
+    <string name="hello_world">The toilet founder app! Find a toilet nearby Rotterdam! Just click on the search button, for more info you can click on the marker. To get rid of this information text please go to settings.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about_text">Want to know how a toilet works? Watch the video above! Or skip it by clicking on the video!</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="welcome_text">HAHAHAHAHAH</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_clicked_info">ClickedInfoActivity</string>
+    <string name="title_activity_about">Where is the toilet?</string>
+
+
+
+</resources>
